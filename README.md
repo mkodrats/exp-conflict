@@ -3,9 +3,10 @@
 Contributors:
 
 - Rudy
+- Koko
 
 Last maintainer:
 
-- Rudy
+- Koko
 
 Time: 31 Aug 2018 - 16:32
